@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mim  
-Sou estudante de Analise e desenvolvimento de sistemas, apaixonado e motivado, com forte interesse em tecnologia, desenvolvimento de software e resolução de problemas.  
+Sou estudante de Analise e desenvolvimento de sistemas, apaixonado,motivado e com forte interesse em tecnologia, desenvolvimento de software e resolução de problemas.  
 Meu foco é aplicar conhecimento em **projetos do mundo real**, aprender continuamente novas habilidades e contribuir para soluções inovadoras.  
 
 Valorizo trabalho em equipe, adaptabilidade e mentalidade de crescimento, e estou comprometido em desenvolver tanto minha experiência técnica quanto minhas habilidades profissionais para gerar impacto significativo na indústria de tecnologia.  
