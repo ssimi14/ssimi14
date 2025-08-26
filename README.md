@@ -46,7 +46,7 @@ Valorizo trabalho em equipe, adaptabilidade e mentalidade de crescimento, e esto
 
 # 👋 Hi, I'm Schneider Similien  
 
-💻 **Software Developer | QA Tester | MTS EA Development Expert**  
+💻 **Software Developer | QA Tester | MT5 EA Development Expert**  
 🐍 Python & AI Solutions for Automated Trading  
 
 ---
