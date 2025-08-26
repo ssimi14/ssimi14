@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Schneider Similien  
 
-💻 **Desenvolvedor de Software | QA Tester | Especialista em MTS EA Development**  
+💻 **Desenvolvedor de Software | QA Tester | Especialista em MT5 EA Development**  
 🐍 Python & IA para soluções de trading automatizado  
 
 ---
